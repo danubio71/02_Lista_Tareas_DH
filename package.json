@@ -1,0 +1,23 @@
+{
+  "name": "06_Tareas_App_2da_Parte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danubio71/02_Lista_Tareas_DH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danubio71/02_Lista_Tareas_DH/issues"
+  },
+  "homepage": "https://github.com/danubio71/02_Lista_Tareas_DH#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
