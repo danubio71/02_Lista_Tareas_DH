@@ -2,6 +2,15 @@ let archivoTareas = require('./funcionesDeTareas');
 const express = require('express');
 const app = express();
 
+app.get('/', (req, res) => {
+    res.send('Hello to my site!')
+    }
+);
+
+app.listen(3000, () => 
+    console.log('Server running!')
+);
+
 
 
 //Si desea investigar un poco más sobre este módulo nativo de NodeJs
